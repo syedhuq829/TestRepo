@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10343" started-at="2020-11-15T16:37:53Z" finished-at="2020-11-15T16:38:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10343" started-at="2020-11-15T16:37:53Z" finished-at="2020-11-15T16:38:03Z">
+      <class name="homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript">
+        <test-method status="PASS" signature="InitialSetUp()[pri:0, instance:homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript@a514af7]" name="InitialSetUp" is-config="true" duration-ms="7655" started-at="2020-11-15T16:37:53Z" finished-at="2020-11-15T16:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialSetUp -->
+        <test-method status="PASS" signature="SignUpValidation()[pri:1, instance:homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript@a514af7]" name="SignUpValidation" duration-ms="66" started-at="2020-11-15T16:38:01Z" finished-at="2020-11-15T16:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpValidation -->
+        <test-method status="PASS" signature="URLandTitleValidation()[pri:2, instance:homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript@a514af7]" name="URLandTitleValidation" duration-ms="2016" started-at="2020-11-15T16:38:01Z" finished-at="2020-11-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLandTitleValidation -->
+        <test-method status="PASS" signature="SiginUpForm()[pri:3, instance:homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript@a514af7]" name="SiginUpForm" duration-ms="543" started-at="2020-11-15T16:38:03Z" finished-at="2020-11-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiginUpForm -->
+      </class> <!-- homeWorkTestNGScripts.PhpTravels_SignUpTestNGScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

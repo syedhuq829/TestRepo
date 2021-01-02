@@ -1,0 +1,9 @@
+<suite name="TestNG XML Demo Suite">
+	<test name="First Teting Framework">
+		<classes>
+			<class name="testScripts.FbSignUpTesTNGScript"/>
+			<class name="testScripts.YahooLoginTestNGScript"/>
+			<class name="testScripts.PracticeTest"/>
+		</classes>
+	</test>
+</suite>
